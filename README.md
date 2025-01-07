@@ -11,14 +11,14 @@ Requirements
     
         
  Usage
-
-    Prepare Your Images: Place the images you wish to process in a designated directory.
+    you need to create your own folder instide naming questions for questions and solutions for your answers
+    Prepare Your Images: Place the images you wish to process in a designated directory(questions in questions folder and answer in solutions folder).
     in this process the image parts for questions should be in questions and solution images parts should be in solutions respectively
 
 
-  you can run by using main.py bash file
+  you can run by using python3 main.py or running run.sh bash file
 
-Output: output will be in the same dir as the script but will the names question.png and solution.png
+Output: output will be in the same dir as the script but with the names question.png and solution.png
 
 
 This project is licensed under the MIT License. See the LICENSE file for details.
